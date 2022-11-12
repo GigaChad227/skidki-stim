@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color:rgb(23, 207, 207);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a{
+    color:gold;
+    margin: 0 20px 0 20px;
+}
+   
